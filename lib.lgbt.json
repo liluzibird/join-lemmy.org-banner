@@ -1,0 +1,15 @@
+{
+  "contact": "Lemmy Place Coordination: https://matrix.to/#/#lemmyplace:data.haus",
+  "templates": [
+    {
+      "name": "Lemmy Place Coordination: https://matrix.to/#/#lemmyplace:data.haus",
+      "sources": [
+        "https://github.com/userliluzibert/join-lemmy.org-banner/blob/main/lib.lgbt.png?raw=true"
+      ],
+      "x": 1142,
+      "y": 120
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
